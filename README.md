@@ -1,2 +1,5 @@
-# emails_github_filesystem_rail_12306_terminal_fetch_2931-x7k2m9-brand-assets
-Studio brand asset archive (not a work repository)
+# Brand Assets
+
+Colour swatches and logo exports used by the studio communications team.
+
+This repository stores design assets only and is unrelated to the works index.
